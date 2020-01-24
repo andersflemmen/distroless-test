@@ -1,5 +1,9 @@
 # distroless-test
 
+Built Docker image can be found at Docker Hub:
+`andersflemmen/distroless-test:latest`
+
+
 The image built with Maven by Jib in this example crashes with the following output in OpenShift:
 ```
 Verifying certificates...
