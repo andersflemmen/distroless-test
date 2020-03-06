@@ -29,7 +29,7 @@
                 <version>1.8.0</version>
                 <configuration>
                     <from>
-                        <image>francium25/distroless-java11-debug-debian9</image>
+                        <image>gcr.io/distroless/java@sha256:8c2779a0aa6ba72ed80eeb9263849ddc84eef559b13e5311e080c2614f11ea15</image>
                     </from>
                 </configuration>
                 <executions>
